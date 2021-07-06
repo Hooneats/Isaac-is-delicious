@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IssacServer2:jar">
+    <output-path>$PROJECT_DIR$/../../../나</output-path>
+    <root id="archive" name="IssacServer2.jar">
+      <element id="module-output" name="IssacServer2" />
+    </root>
+  </artifact>
+</component>
